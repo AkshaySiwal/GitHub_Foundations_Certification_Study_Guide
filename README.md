@@ -32,16 +32,16 @@ Mirosoft GitHub automatically applies a coupon to your account, reducing the pri
 Our current exams are a duration of 120 minutes.
 #### 2. How much do the exams cost?
 Currently, our exams are $99 USD. The exam retakes are not free of charge. Each attempt will require a payment of $99 USD.
-#### 3. If my plans change, and I cannot sit for the exam, what should I do?
-You can cancel or reschedule your exam for any reason up to 48 hours before your scheduled appointment. If an unforeseen circumstance happens within that window, we recommend reaching out to GitHub Support for assistance. To do so, please open a ticket using this link. We kindly request that you do not select the option to chat with Copilot in GitHub Support.
-#### 4. What happens if I fail an exam?
-If you fail a certification exam, you can retake it. There is a 24-hour hold before you are able to attempt the first retake. A 14-day hold will be applied for each consecutive retake after the first retake. You may only retake the exam for a total of 5 attempts.
-#### 5. What score do I need to pass?
+#### 3. What score do I need to pass?
 Since there are multiple versions of the certification exams, the passing score can have minor variances depending on which version you take. To ensure the integrity of our exams, and to avoid confusion on why there is a small variance, we can not provide you with a specific total score.
-#### 6. How is the exam formatted?
+#### 4. How is the exam formatted?
 Our current exams are: multiple-choice, have 60 scored items, and around 10-15 pretest items depending on the exam.
-#### 7. Are the exams proctored?
+#### 5. Are the exams proctored?
 Yes, proctored exams are available through PSI. During the scheduling process, you can choose to take the exam in a local test center or online. An online proctored exam requires the installation of a secure browser and reliable access to the internet.
+#### 6. If my plans change, and I cannot sit for the exam, what should I do?
+You can cancel or reschedule your exam for any reason up to 48 hours before your scheduled appointment. If an unforeseen circumstance happens within that window, we recommend reaching out to GitHub Support for assistance. To do so, please open a ticket using this link. We kindly request that you do not select the option to chat with Copilot in GitHub Support.
+#### 7. What happens if I fail an exam?
+If you fail a certification exam, you can retake it. There is a 24-hour hold before you are able to attempt the first retake. A 14-day hold will be applied for each consecutive retake after the first retake. You may only retake the exam for a total of 5 attempts.
 #### 8. I was turned away, what do I do now?
 If you encounter any issues, please reach out to GitHub Support for assistance. To do so, please open a ticket using this [link](https://support.github.com/request/direct?tags=hh-ace-support). GitHub request that you do not select the option to chat with Copilot in GitHub Support.
 #### 9. How soon can I retake an exam?
