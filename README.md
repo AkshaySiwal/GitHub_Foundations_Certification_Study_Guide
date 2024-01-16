@@ -1,2 +1,10 @@
-# GitHub_Foundations_Certification_Study_Guide
-GitHub Foundations Certification Study Guide
+# GitHub Foundations Certification Study Guide
+Candidates for this exam should be entry-level developers or non-technical support, project managers, or program managers looking to validate basic fundamentals of GitHub. This exam measures entry level skills with GitHub basics like repositories, commits, branching, markdowns, and project management.
+
+# Exam Cost: 99 USD
+
+# Preparing for the certification
+
+Learning Path https://learn.microsoft.com/en-us/collections/o1njfe825p602p
+
+Certification Study Guide files/github-foundations-exam-study-guide.pdf
