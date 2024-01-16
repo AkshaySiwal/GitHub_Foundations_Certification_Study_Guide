@@ -5,6 +5,10 @@ Candidates for this exam should be entry-level developers or non-technical suppo
 
 # Preparing for the certification
 
-Learning Path https://learn.microsoft.com/en-us/collections/o1njfe825p602p
+- [Learning Path](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
 
-Certification Study Guide files/github-foundations-exam-study-guide.pdf
+- [Certification Study Guide](files/github-foundations-exam-study-guide.pdf)
+
+
+# Register here 
+[Click Here to Register](https://examregistration.github.com/certification/GHF)
